@@ -1,10 +1,14 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [irleibarra]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [December 4, Tuesday, 2018].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+#Day 1, December 4, 2018
+#Round 1: Responsive Web Design Certification (300 hours)
+#Today's Progress: 
+Starting with Basic HTML and HTML5, moving forward, and  just a few steps to begin with Basic CSS 
 
-### R1D2
+#Thoughts:
+I have been moving fast trough Basic HTML and HTML5 but I want to be careful and go slow, at my pace for get the betters results in this challenge.
+
