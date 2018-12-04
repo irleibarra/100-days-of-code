@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [irleibarra]
+# #100DaysOfCode Log - Round 1 - irleibarra
 
-The log of my #100DaysOfCode challenge. Started on [December 4, Tuesday, 2018].
+The log of my #100DaysOfCode challenge. Started on December 4, Tuesday, 2018.
 
 ## Log
 
@@ -8,7 +8,7 @@ The log of my #100DaysOfCode challenge. Started on [December 4, Tuesday, 2018].
 
 ## Round 1: Responsive Web Design Certification (300 hours)
 
-##Today's Progress: 
+## Today's Progress: 
 
 Starting with Basic HTML and HTML5, moving forward, and  just a few steps to begin with Basic CSS 
 
