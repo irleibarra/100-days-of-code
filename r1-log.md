@@ -4,10 +4,9 @@ The log of my #100DaysOfCode challenge. Started on December 4, Tuesday, 2018.
 
 ## Log
 
-## Day 1, December 4, 2018
-
 ## Round 1: Responsive Web Design Certification (300 hours)
 
+## Day 1, December 4, 2018
 ## Today's Progress: 
 
 Starting with Basic HTML and HTML5, moving forward, and  just a few steps to begin with Basic CSS 
