@@ -19,7 +19,36 @@ I have been moving fast trough Basic HTML and HTML5 but I want to be careful and
 
 Day 2 of the #100daysofcode challenge. I have finished Basic HTML and HTML5, but I want to be careful and follow my pace to get the best results from this challenge. Just a few minutes to start with basic CSS. Wish me luck
 
+## Thoughts: 
+
+## Day 3, December 6, 2018
+## Today's Progress: 
+Day 3 of the #100DaysOfCode challenge. Still in Basic CSS. Today I feel a little sick 😥, but the most important thing is to stay motivated 😍 👍 and what better motivation than to make a dream come true 🙌 🤓. Thanks @freecodecamp #301DaysOfCode #CodeNewbie
+
+
 ## Thoughts:
 
+## Day 4, December 7, 2018
+## Today's Progress: 
 
+
+## Thoughts:
+
+## Day 5, December 8, 2018
+## Today's Progress: 
+
+
+## Thoughts:
+
+## Day 6, December 9, 2018
+## Today's Progress: 
+
+
+## Thoughts:
+
+## Day 7, December 10, 2018
+## Today's Progress: 
+
+
+## Thoughts:
 
