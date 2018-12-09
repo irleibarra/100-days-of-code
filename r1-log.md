@@ -38,7 +38,9 @@ Day 4 of the #100DaysOfCode challenge. CSS basic finished 👍. It was really fu
 For now is very easy, but I know that in the future this challenge will be more complicated.
 
 ## Day 5, December 8, 2018
-## Today's Progress: 
+## Today's Progress:
+
+Nothing today, weekends are crazy at home. jjjjj 
 
 
 ## Thoughts:
