@@ -47,7 +47,6 @@ For now is very easy, but I know that in the future this challenge will be more 
 ## Today's Progress: 
 D5-D6 of #100DaysOfCode challenge. New @udemy tutorial 😎, #React Complete Guide with #redux . Every day more motivated 🙌🤓, I feel like a child with a new toy 🤣, both days Getting Started and Refreshing Next Generation JavaScript. #301DaysOfCode #CodeNewbie
 
-
 ## Thoughts: 
 The weekends are crazy at home, hard to concentrate but I have to stay focused
 
@@ -55,6 +54,35 @@ The weekends are crazy at home, hard to concentrate but I have to stay focused
 ## Today's Progress: 
 Day 7 of  #100DaysOfCode challenge. Today is one more day in which I work to achieve the Responsive Web Design Certification with @freeCodeCamp, completing the curriculum of Introduction to the Applied Visual Design Challenges and listening to @radioenergybg 🤩🥰🤓
 
+## Thoughts:
+
+## Day 8, December 11, 2018
+## Today's Progress: 
+Day 8 of #100DaysOfCode challenge. Today I had my two hours to continue completing "Introduction to the Applied Visual Design Challenges" of @freeCodeCamp. Now at home moving forward with the @Udemy course of React. Happy to make this challenge 😍🥰 #301DaysOfCode #WomenWhoCode 
+
 
 ## Thoughts:
 
+## Day 9, December 12, 2018
+## Today's Progress: 
+
+
+## Thoughts:
+
+## Day 10, December 13, 2018
+## Today's Progress: 
+
+
+## Thoughts:
+
+## Day 11, December 14, 2018
+## Today's Progress: 
+
+
+## Thoughts:
+
+## Day 12, December 15, 2018
+## Today's Progress: 
+
+
+## Thoughts:
