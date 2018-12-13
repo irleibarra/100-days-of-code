@@ -71,6 +71,7 @@ Day 8 of #100DaysOfCode challenge. Today I had my two hours to continue completi
 
 ## Day 10, December 13, 2018
 ## Today's Progress: 
+Days 9-10 of #100DaysOfCode challenge with @freeCodeCamp. Yesterday was a busy day, unable to do anything😥 . I'm starting today with the Introduction to the Applied Accessibility Challenges. Happy to move forward🤩 , wishing to begin to complete the projects.🙌🙏 #301DaysOfCode
 
 
 ## Thoughts:
