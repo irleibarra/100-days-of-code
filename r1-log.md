@@ -78,7 +78,7 @@ Days 9-10 of #100DaysOfCode challenge with @freeCodeCamp. Yesterday was a busy d
 
 ## Day 11, December 14, 2018
 ## Today's Progress: 
-
+Day 11 of #100DaysOfCode challenge using @freeCodeCamp. Introduction to the Applied Accessibility Challenges finished. I continue now with Responsive Web Design Principles and CSS Flexbox. A lot of precious information 🤩😍👩‍💻. #301DaysOfCode #CodeNewbie #WomenWhoCode 
 
 ## Thoughts:
 
