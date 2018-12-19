@@ -84,6 +84,24 @@ Day 11 of #100DaysOfCode challenge using @freeCodeCamp. Introduction to the Appl
 
 ## Day 12, December 15, 2018
 ## Today's Progress: 
+D12 of #100DaysOfCode challenge. 
+@freeCodeCamp 😃
+✅ Introduction to the Responsive web design challenge was really short 😅
+@udemy 😃
+✅ Right now Understanding & using state with the React Complete Guide with Redux 😍
+#301DaysOfCode #CodeNewbie
 
 
 ## Thoughts:
+
+## Day 13, December 16, 2018
+## Today's Progress: 
+
+## Day 14, December 17, 2018
+## Today's Progress:
+Day 14 of #100DaysOfCode challenge, I was unable to tweet yesterday because a Christmas Party🎄 🎉. Today I continue with the @udemy Compelte Guide of React 😍😍#301DaysOfCode 
+This is my #thoughtoftheday 👩🏻‍💻
+
+## Day 15, December 18, 2018
+## Today's Progress:
+Day 15 of #100DaysOfCode challenge. Completing Introduction to the CSS Grid Challenges, I believe that the day after tomorrow I will start with tribute page project. I'm so excited
