@@ -105,3 +105,11 @@ This is my #thoughtoftheday 👩🏻‍💻
 ## Day 15, December 18, 2018
 ## Today's Progress:
 Day 15 of #100DaysOfCode challenge. Completing Introduction to the CSS Grid Challenges, I believe that the day after tomorrow I will start with tribute page project. I'm so excited
+
+## Day 16, December 19, 2018
+## Today's Progress:
+
+
+## Day 17, December 20, 2018
+## Today's Progress:
+Day 17 od #100DaysOfCode  challenge with @freeCodeCamp. Today I start with Introduction to the Responsive Web Design Projects 👍😍. Tribute Page is waiting for me 🤩. Wish me luck 🙌 #301DaysOfCode #CodeNewbie #WomenWhoCode
