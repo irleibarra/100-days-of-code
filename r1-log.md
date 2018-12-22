@@ -113,3 +113,15 @@ Day 15 of #100DaysOfCode challenge. Completing Introduction to the CSS Grid Chal
 ## Day 17, December 20, 2018
 ## Today's Progress:
 Day 17 od #100DaysOfCode  challenge with @freeCodeCamp. Today I start with Introduction to the Responsive Web Design Projects 👍😍. Tribute Page is waiting for me 🤩. Wish me luck 🙌 #301DaysOfCode #CodeNewbie #WomenWhoCode
+
+
+## Day 18, December 21, 2018
+## Today's Progress:
+Configuring my new macbook pro
+
+## Day 19, December 22, 2018
+## Today's Progress:
+
+
+## Day 20 December 22, 2018
+## Today's Progress:
