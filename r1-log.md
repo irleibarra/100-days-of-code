@@ -121,7 +121,16 @@ Configuring my new macbook pro
 
 ## Day 19, December 22, 2018
 ## Today's Progress:
-
+Days 18-19 of #100DaysOfCode challenge with @freeCodeCamp. Yesterday I was all day configuring my new Macbook Pro 🥰🙌, today I almost finished my tribute page 🙏. Tomorrow will be another day to continue with this challenge that has motivated me so much😻  #301daysofcode 
 
 ## Day 20 December 22, 2018
+## Today's Progress:
+
+## Day 21 December 23, 2018
+## Today's Progress:
+
+## Day 22 December 24, 2018
+## Today's Progress:
+
+## Day 23 December 25, 2018
 ## Today's Progress:
