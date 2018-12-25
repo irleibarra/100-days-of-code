@@ -134,3 +134,7 @@ Days 18-19 of #100DaysOfCode challenge with @freeCodeCamp. Yesterday I was all d
 
 ## Day 23 December 25, 2018
 ## Today's Progress:
+I love Christmas parties with my family🍾🎉💝. Merry Christmas to all🎄⛄️❄️
+Here is the summary of my days 20-23 of #100DaysOfCode challenge. 
+I just finished the Tribute Page and Survey Form projects with @freeCodeCamp.
+ #womenwhocode #CodeNewbie #301DaysOfCode
