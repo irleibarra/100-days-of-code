@@ -138,3 +138,10 @@ I love Christmas parties with my family🍾🎉💝. Merry Christmas to all🎄�
 Here is the summary of my days 20-23 of #100DaysOfCode challenge. 
 I just finished the Tribute Page and Survey Form projects with @freeCodeCamp.
  #womenwhocode #CodeNewbie #301DaysOfCode
+
+ ## Day 24 December 26, 2018
+## Today's Progress:
+
+## Day 25 December 27, 2018
+## Today's Progress:
+Day 25 of #100DaysOfCode challenge with @freeCodeCamp. Today I started my product landing page 😍. I am very excited, I know it will be a night full of good things doing this project🙏🙌💻 #301DaysOfCode #womenwhocode #CodeNewbie
