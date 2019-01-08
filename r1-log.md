@@ -145,3 +145,7 @@ I just finished the Tribute Page and Survey Form projects with @freeCodeCamp.
 ## Day 25 December 27, 2018
 ## Today's Progress:
 Day 25 of #100DaysOfCode challenge with @freeCodeCamp. Today I started my product landing page 😍. I am very excited, I know it will be a night full of good things doing this project🙏🙌💻 #301DaysOfCode #womenwhocode #CodeNewbie
+
+## Day 27 January 8, 2019
+## Today's Progress:
+This new year has started with a lot of work, after several days I go back one more time and with a lot of perseverance my challenge of #100DaysOfcode 👩🏻‍💻📕✏️. Day 27 🙌 officially committed. #301DaysOfCode #womenwhocode
