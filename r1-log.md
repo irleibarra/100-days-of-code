@@ -149,3 +149,7 @@ Day 25 of #100DaysOfCode challenge with @freeCodeCamp. Today I started my produc
 ## Day 27 January 8, 2019
 ## Today's Progress:
 This new year has started with a lot of work, after several days I go back one more time and with a lot of perseverance my challenge of #100DaysOfcode 👩🏻‍💻📕✏️. Day 27 🙌 officially committed. #301DaysOfCode #womenwhocode
+
+## Day 29 January 10, 2019
+## Today's Progress:
+Day 29 of my #100daysofcode challenge🥰. Yesterday I finished my Technical Documentation Page🤩, today I start my Personal Portfolio Webpage, moving fast but with a lot of concentration🙌 #CodeNewbie #301DaysOfCode #WomenWhoCode
