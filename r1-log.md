@@ -153,3 +153,18 @@ This new year has started with a lot of work, after several days I go back one m
 ## Day 29 January 10, 2019
 ## Today's Progress:
 Day 29 of my #100daysofcode challenge🥰. Yesterday I finished my Technical Documentation Page🤩, today I start my Personal Portfolio Webpage, moving fast but with a lot of concentration🙌 #CodeNewbie #301DaysOfCode #WomenWhoCode
+
+## Day 30 January 11, 2019
+## Today's Progress:
+I already have my first certification🥳🙏🙌 
+@freeCodeCamp
+ #100daysofcodechallenge  #301DaysOfCode 
+
+(link: https://www.freecodecamp.org/certification/irleibarra/responsive-web-design) freecodecamp.org/certification/…
+
+
+## Day 31 January 12, 2019
+## Today's Progress:
+Start Javascript Algorithms And Data Structures Certification (300 hours), Introduction to JavaScript.... yupiiiii
+
+
