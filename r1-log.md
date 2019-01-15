@@ -168,3 +168,8 @@ I already have my first certification🥳🙏🙌
 Start Javascript Algorithms And Data Structures Certification (300 hours), Introduction to JavaScript.... yupiiiii
 
 
+
+## Day 32 January 15, 2019
+## Today's Progress:
+Day 32 of #100daysofcode and #301DaysOfCode 
+challenge. Today I have already started Javascript Algorithms And Data Structures Certification, by the  beginning with Introduction to JavaScript 🥳😃🤓 #freeCodeCamp #womenintech #womenwhocode #webdeveloper #JavaScript
